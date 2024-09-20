@@ -1,0 +1,9 @@
+[package]
+name = "jigunparker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossbeam = "0.8.4"
+dashmap = "6.1.0"
+rand_xoshiro = "0.6.0"
